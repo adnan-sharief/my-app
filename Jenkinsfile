@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'adnansharief/websites:carvilla'
+        IMAGE_NAME = 'adnansharief/websites:oxer'
     }
 
     stages {
